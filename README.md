@@ -1,5 +1,5 @@
-<h1 align="center">Ahoyy 👋, I'm Harsh Das</h1>
-<h3 align="center">Student at TIET, Patiala🌟.</h3>
+<h1 align="center">Ahoyy 👋 My name is Harsh</h1>
+<h3 align="center">Student at TIET, Patiala🌟</h3>
 
 <p><img align="right" src="mymemoji.png" alt="Rinzler007" /></p>
 
