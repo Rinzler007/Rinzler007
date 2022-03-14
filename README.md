@@ -1,6 +1,14 @@
 <h1 align="center">Ahoyy 👋 My name is Harsh</h1>
 <h3 align="center">Student at TIET, Patiala🌟</h3>
 
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
+<br>
+
 <p><img align="right" src="mymemoji.png" alt="Rinzler007" /></p>
 
 
