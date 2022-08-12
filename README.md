@@ -1,5 +1,5 @@
 <h1 align="center">Ahoyy 👋 My name is Harsh</h1>
-<h3 align="center">Student at TIET, Patiala🌟</h3>
+<h3 align="center">I am a Graduate Analyst in Barclays, Pune🌟</h3>
 
 <br>
 
