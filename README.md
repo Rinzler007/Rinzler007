@@ -1,5 +1,5 @@
 <h1 align="center">Ahoyy 👋 My name is Harsh</h1>
-<h3 align="center">I am a student pursuing MS in Computer Science from Stony Brook University, New York🌟</h3>
+<h3 align="center">I am currently pursuing MS in Computer Science from Stony Brook University, New York🌟</h3>
 
 <br>
 
