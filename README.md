@@ -85,7 +85,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/flask/ffffff" alt="flask" width="40" height="40" />
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
@@ -119,7 +119,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
   <a href="https://unix.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="unix" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="unix" width="40" height="40" />
   </a>
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="40" height="40" />
@@ -144,7 +144,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
   </a>
   <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/ibm/054ADA" alt="ibm db2" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="ibm db2" width="40" height="40" />
   </a>
 </p>
 
