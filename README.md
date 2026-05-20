@@ -144,7 +144,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
   </a>
   <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ibm/ibm-original.svg" alt="ibm db2" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/ibm/054ADA" alt="ibm db2" width="40" height="40" />
   </a>
 </p>
 
