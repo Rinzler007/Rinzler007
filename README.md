@@ -10,7 +10,7 @@
 <img align="right" src="mymemoji.png" alt="Rinzler007" width="220" />
 
 - 🎓 Pursuing **MS in Computer Science** at **Stony Brook University, New York**
-- 💼 Former **Software Engineer at Barclays** - 3 years in backend, cloud & microservices
+- 💼 Former **Senior Software Engineer at Barclays** - 3 years in backend, cloud & microservices
 - ☁️ **AWS Certified Cloud Practitioner** (2024 - 2027)
 - 🏆 **Code Ninja** - top performer from 100+ devs at Barclays (May 2023)
 - 🔭 Passionate about **Full Stack Development**, **Cloud Architecture** and **AI / ML**
