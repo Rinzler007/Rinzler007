@@ -65,6 +65,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" />
+  </a>
 </p>
 
 <h4 align="left">Frameworks & Libraries</h4>
@@ -93,6 +96,12 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
   </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />
+  </a>
+  <a href="https://webassembly.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wasm/wasm-original.svg" alt="webassembly" width="40" height="40" />
+  </a>
 </p>
 
 <h4 align="left">DevOps & Tools</h4>
@@ -109,6 +118,15 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
+  <a href="https://unix.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="unix" width="40" height="40" />
+  </a>
+  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="40" height="40" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
+  </a>
 </p>
 
 <h4 align="left">Databases</h4>
@@ -122,12 +140,21 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
+  </a>
+  <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ibm/ibm-original.svg" alt="ibm db2" width="40" height="40" />
+  </a>
 </p>
 
 <h4 align="left">Cloud</h4>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
   </a>
 </p>
 
@@ -144,18 +171,24 @@
   </a>
 </p>
 
+<h4 align="left">Big Data</h4>
+<p align="left">
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40" />
+  </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark / pyspark" width="40" height="40" />
+  </a>
+</p>
+
 <br>
 
 <h3>📊 GitHub Stats</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinzler007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rinzler007&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rinzler007&theme=tokyonight" alt="Top Languages" />
+  &nbsp;
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rinzler007&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <br>
