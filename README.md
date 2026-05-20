@@ -1,5 +1,5 @@
 <h1 align="center">Ahoyyy 👋 My name is Harsh Das</h1>
-<h3 align="center">MS Computer Science @ Stony Brook University &nbsp;·&nbsp; Ex-SWE @ Barclays &nbsp;·&nbsp;</h3>
+<h3 align="center">MS Computer Science @ Stony Brook University &nbsp;·&nbsp; Ex-SWE @ Barclays &nbsp;</h3>
 
 <br>
 
