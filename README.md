@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Harsh Das</h1>
+<h1 align="center">Hey there 👋 My name is Harsh Das</h1>
 <h3 align="center">MS Computer Science @ Stony Brook University &nbsp;·&nbsp; Ex-SWE @ Barclays &nbsp;·&nbsp; AWS Certified ☁️</h3>
 
 <br>
