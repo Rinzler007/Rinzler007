@@ -1,5 +1,5 @@
 <h1 align="center">Ahoyyy 👋 My name is Harsh Das</h1>
-<h3 align="center">MS Computer Science @ Stony Brook University &nbsp;·&nbsp; Ex - Senior SWE @ Barclays &nbsp;</h3>
+<h3 align="center">Full Stack Development Intern @ AudienceRX &nbsp;·&nbsp; MS Computer Science @ Stony Brook University &nbsp;·&nbsp; Ex - Senior SWE @ Barclays &nbsp;</h3>
 
 <br>
 
@@ -10,6 +10,7 @@
 <img align="right" src="mymemoji.png" alt="Rinzler007" width="220" />
 
 - 🎓 Pursuing **MS in Computer Science** at **Stony Brook University, New York**
+- 💼 **Full Stack Development Intern at AudienceRX** - 3 months in backend, cloud & blockchain services
 - 💼 Former **Senior Software Engineer at Barclays** - 3 years in backend, cloud & microservices
 - ☁️ **AWS Certified Cloud Practitioner** (2024 - 2027)
 - 🏆 **Code Ninja** - top performer from 100+ devs at Barclays (May 2023)
